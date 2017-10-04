@@ -1,3 +1,5 @@
-export default Component => {
-  return Component;
+module.exports = {
+  default: Component => {
+    return Component;
+  }
 };
