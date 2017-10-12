@@ -2,8 +2,5 @@
   "name": "react-mutate-test-mutation",
   "version": "1.0.3",
   "main": "index.js",
-  "license": "MIT",
-  "mutations": {
-    "Foo": "./index.js"
-  }
+  "license": "MIT"
 }

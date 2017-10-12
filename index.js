@@ -1,5 +1,5 @@
-module.exports = {
-  default: Component => {
+module.exports.mutations = {
+  Foo: Component => {
     return Component;
   }
 };
